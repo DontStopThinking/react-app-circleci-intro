@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/ShantanuBalse/react-app-circleci-intro.svg?style=svg)]()
+[![CircleCI](https://circleci.com/gh/ShantanuBalse/react-app-circleci-intro.svg?style=svg)](https://github.com/ShantanuBalse/react-app-circleci-intro)
 
 # Getting Started with Create React App
 
